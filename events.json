@@ -1,9 +1,9 @@
 [
     {
         "id": 1,
-        "title": "Weekly Meeting",
-        "date": "2025-08-14T18:00:00Z",
-        "description": "Join us for our weekly Stumo meeting in the MU."
+        "title": "Prayer Walk",
+        "date": "2025-08-15T6:00:00Z",
+        "description": "Join us for a prayer walk with the fellas."
     },
     {
         "id": 2,
@@ -19,12 +19,6 @@
     },
     {
         "id": 4,
-        "title": "Back to School BBQ",
-        "date": "2025-09-25T08:00:00Z",
-        "description": "Come hang out and see what stumo is all about!"
-    },
-    {
-        "id": 5,
         "title": "StuMo Late Night",
         "date": "2025-05-25T08:00:00Z",
         "description": "Late Night @ Lambda Chi tonight!"
