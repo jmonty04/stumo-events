@@ -22,5 +22,11 @@
         "title": "Back to School BBQ",
         "date": "2025-09-25T08:00:00Z",
         "description": "Come hang out and see what stumo is all about!"
+    },
+    {
+        "id": 5,
+        "title": "StuMo Late Night",
+        "date": "2025-05-25T08:00:00Z",
+        "description": "Late Night @ Lambda Chi tonight!"
     }
 ]
